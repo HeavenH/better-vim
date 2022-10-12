@@ -1,0 +1,8 @@
+{
+  "diagnostic.errorSign": "❗️ ",
+  "diagnostic.warningSign": "⚠️ ",
+  "diagnostic.infoSign": "⚠️ ",
+  "javascript.validate.enable": false,
+  "eslint.autoFixOnsave": true,
+  "tsserver.enableTypescript": true
+}

@@ -1,0 +1,5 @@
+test/
+/better-vim.lua
+config/
+.DS_STORE
+_reload.sh
